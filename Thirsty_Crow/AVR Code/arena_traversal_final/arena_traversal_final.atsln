@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "arena_traversal_final", "arena_traversal_final\arena_traversal_final.cproj", "{66C1122A-47FE-411F-BA85-2E3BEAA2B168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C1122A-47FE-411F-BA85-2E3BEAA2B168}.Debug|AVR.ActiveCfg = Debug|AVR
+		{66C1122A-47FE-411F-BA85-2E3BEAA2B168}.Debug|AVR.Build.0 = Debug|AVR
+		{66C1122A-47FE-411F-BA85-2E3BEAA2B168}.Release|AVR.ActiveCfg = Release|AVR
+		{66C1122A-47FE-411F-BA85-2E3BEAA2B168}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
