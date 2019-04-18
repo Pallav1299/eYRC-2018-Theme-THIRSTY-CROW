@@ -6,3 +6,6 @@ Includes all the materials that we prepared during the e-Yantra Robotics Competi
 
 Watch our theme implementation here:
 https://www.youtube.com/watch?v=x0Y6wJKaYHQ
+
+For more details about e-Yantra go to:
+http://e-yantra.org/
